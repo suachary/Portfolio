@@ -1,0 +1,204 @@
+
+            body {
+                background-color:powderblue;
+            }
+            h1 {
+                color: black;
+                font-family:verdana;
+            }
+            p  {
+                color: black;
+            }
+            table, th{
+                border: 1px solid;
+
+            }
+            table{
+                width: 100%;
+                text-align: center;
+                border-collapse:collapse;
+
+            }
+            img{
+                display:block;
+                margin: 0 auto;
+            }
+            th{
+                background-color:palevioletred;
+                color:black;
+                padding:10 px;
+            }
+            tr:nth-child(even){
+                background-color:black;
+            }
+            #SushmitaAcharya {
+                background-color:black;
+                color:white;
+                padding: 30px;
+                text-align: center;
+            }
+            .date-1 {
+                float:right;
+                font-weight: bold;
+                margin-left:20px;
+
+            }
+            .date-2{
+                float:right;
+                font-weight:bold;
+                margin-left:20px;
+            }
+            .date-3{
+                float:right;
+                font-weight:bold;
+                margin-left:20px;
+            }
+            .date-4{
+                float:right;
+                font-weight:bold;
+                margin-left:20px;
+            }
+            .date-5{
+                float:right;
+                font-weight:bold;
+                margin-left:20px;
+            }
+
+            .with-right-text-1{
+                position: relative;
+            }
+            .right-corner-text-1{
+                position: absolute;
+                top:0;
+                right:0;
+                font-weight:italic;
+
+            }
+            .with-right-text-2{
+                position: relative;
+            }
+            .right-corner-text-2{
+                position:absolute;
+                top:0;
+                right:0;
+                font-weight:italic;
+            }
+            .with-right-text-3{
+                position: relative;
+            }
+            .right-corner-text-3{
+                position:absolute;
+                top:0;
+                right:0;
+                font-weight:italic;
+            }
+            .with-right-text-4{
+                position: relative;
+            }
+            .right-corner-text-4{
+                position:absolute;
+                top:0;
+                right:0;
+                font-weight:italic;
+            }
+            .with-right-text-5{
+                position: relative;
+            }
+            .right-corner-text-5{
+                position:absolute;
+                top:0;
+                right:0;
+                font-weight:italic;
+            }
+            td{
+                text-align: left;
+            }
+            
+            ul.a {
+                list-style-type: square;
+            }
+            ol.c {
+                list-style-type: upper-roman;
+            }
+            .container-1{
+                max-width: 500px;
+                margin: 0 auto;
+                padding: 10px;
+            }
+            .container-2{
+                max-width: 500px;
+                margin: 0 auto;
+                padding:10px;
+            }
+            .nav-1{
+                background-color:lightseagreen;
+                text-align: center;
+            }
+
+            .nav-1 ul{
+                list-style-type: none;
+                margin:0;
+                padding: 50px;
+            }
+            .nav-1 ul li{
+                display:inline;
+                margin: 10px;
+            }
+            .nav-1 ul li a{
+                text-decoration: none;
+                color:black;
+                font-size: 20px;
+            }
+            .nav-1 ul li a:hover{
+                text-decoration: underline;
+            }
+            .nav-2{
+                background-color:lightseagreen;
+                color: blue;
+                text-align: center;
+            }
+
+            .nav-2 ul{
+                list-style-type: none;
+                margin:0;
+                padding: 50px;
+            }
+            .nav-2 ul li{
+                display:inline;
+                margin: 10px;
+            }
+            .nav-2 ul li a{
+                text-decoration: none;
+                color:black;
+                font-size: 20px;
+            }
+            .nav-2 ul li a:hover{
+                text-decoration: underline;
+            }
+            .nav-3{
+                background-color:lightseagreen;
+                color: blue;
+                text-align: center;
+            }
+
+            .nav-3 ul{
+                list-style-type: none;
+                margin:0;
+                padding: 50px;
+            }
+            .nav-3 ul li{
+                display:inline;
+                margin: 10px;
+            }
+            .nav-3 ul li a{
+                text-decoration: none;
+                color:black;
+                font-size: 20px;
+            }
+            .nav-3 ul li a:hover{
+                text-decoration: underline;
+            }
+            .flex{
+                display: flex;
+            }
+        
